@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: s
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: f598bb4fa43b73f48bf6d45cc798ea65, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 573104b9d70f52a46b463ec45ecfbc10, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8b9168fddb8046b40bacf0c0e43ee24d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: d1886b18635cf904bb918d7a4b75ec58, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: a1ae20fd22a19ff47ab8c9090c7c7ea6, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 8d4c282ab56d0c544a7b71aee8273c8c, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: dc45825a308d1df4f8afd31354c32355, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 05c47e50c71d8b949854b05e69f28318, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: a082d7626f8a84b47994f1d04a607ca2, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: b5638069b41b85f47b4841498f4568c9, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 30bf625c61ebfee468aea30590144473, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
